@@ -1,0 +1,8 @@
+.twPadItmImg {
+	float:left;
+	padding-right:5px;
+}
+
+.twPadItm{
+	border-bottom: 1px dashed #cccccc; padding: 10px 5px;
+}
